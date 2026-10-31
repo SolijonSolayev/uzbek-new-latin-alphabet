@@ -210,7 +210,7 @@ Kiruvchi matn:
 Qo'lda yoki dastur orqali:
 
 ```text
-Şavkat Mirziyoyev özbek tilining yangi alifbati haqida gapirdi.
+Şavkat Mirziyoyev özbek tilining yangi alfaviti haqida gapirdi.
 ```
 
 ### Apostrof qoidalari
@@ -279,4 +279,3 @@ Agar siz repoga birinchi marta qarasangiz, avval `AI_New_Uzbek_Alphabet_Guide.md
 
 ---
 
-Created for the Uzbek New Latin Alphabet conversion project.

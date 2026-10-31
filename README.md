@@ -1,5 +1,36 @@
 # Uzbek New Latin Alphabet
 
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-success" />
+  <img alt="Python 3.8+" src="https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white" />
+  <img alt="Encoding" src="https://img.shields.io/badge/Encoding-UTF--8-1f6feb" />
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green" />
+  <img alt="AI Ready" src="https://img.shields.io/badge/AI-ready-GitHub%20Copilot-6F42C1" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img alt="Conversion" src="https://img.shields.io/badge/Conversion-Old%20Latin%20%E2%86%92%20New%20Latin-00C853" /></td>
+      <td><img alt="Validation" src="https://img.shields.io/badge/Validation-Checks%20%26%20Fixes-FFB300" /></td>
+      <td><img alt="Format" src="https://img.shields.io/badge/Format-Skill%20%2B%20CLI-8A2BE2" /></td>
+    </tr>
+  </table>
+</div>
+
+> [!IMPORTANT]
+> Bu loyiha matnlarni yangi lotin alifbosiga moslashtirish, tekshirish va standartlashtirish uchun yaratilgan.
+
+<details>
+  <summary><strong>Tez ma'lumot</strong></summary>
+
+- eski lotin yoki kirill yozuvini yangi lotin alifbosiga o'tkazadi;
+- mavjud matnlarni tekshiradi va xatolarni tuzatadi;
+- alifbo qoidalarini hujjatlashtiradi;
+- GitHub Copilot va AI tizimlari uchun `skill` formatida ishlatiladi.
+
+</details>
+
 Uzbek tilidagi matnlarni 2026-yilgi yangi lotin alifbosiga o'giruvchi, tekshirish va to'g'rilash uchun mo'ljallangan loyiha. Loyiha asosan quyidagi vazifalarni bajaradi:
 
 - eski lotin yozuvi yoki kirill yozuvidagi matnni yangi lotin alifbosiga o'tkazadi;
@@ -275,7 +306,14 @@ Uning asosiy qiymati shundaki:
 - foydalanuvchi va AI o'rtasida aniq muomala yaratadi;
 - kelajakdagi uzbek tilidagi texnik mahsulotlar uchun asos bo'ladi.
 
-Agar siz repoga birinchi marta qarasangiz, avval `AI_New_Uzbek_Alphabet_Guide.md` va `uzbek-new-latin-alphabet/SKILL.md` fayllarini o'qib chiqish tavsiya etiladi. Keyin esa `convert.py` skriptini ishlatib, amaliy natijalarni ko'rishingiz mumkin.
+Agar siz repoga birinchi marta qarasangiz, avval `AI_New_Uzbek_Alphabet_Guide.md` va `uzbek-new-latin-alphabet/SKILL.md` fayllarini o'qib chiqish tavsiya etiladi. Keyin esa `convert.py` skriptini ishlatishni tavsiya qilamiz.
 
 ---
+
+<p align="center">
+  <img alt="Built with GitHub" src="https://img.shields.io/badge/Built%20with-GitHub-181717?logo=github" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Docs-Markdown-000000?logo=markdown" />
+  <img alt="Python" src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
+</p>
+
 

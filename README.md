@@ -2,17 +2,21 @@
 
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-success" />
-  <img alt="Python 3.8+" src="https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white" />
-  <img alt="Encoding" src="https://img.shields.io/badge/Encoding-UTF--8-1f6feb" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white" />
+  <img alt="UTF-8" src="https://img.shields.io/badge/Encoding-UTF--8-1f6feb" />
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green" />
-  <img alt="AI Ready" src="https://img.shields.io/badge/AI-ready-GitHub%20Copilot-6F42C1" />
+  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Yes-181717?logo=github" />
+  <img alt="AI Ready" src="https://img.shields.io/badge/AI%20Ready-GitHub%20Copilot-6F42C1" />
+  <img alt="Language Standard" src="https://img.shields.io/badge/Language%20standard-Uzbek%20Latin-0A84FF" />
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> ·
-  <a href="#why-this-project">Why</a> ·
-  <a href="#usage">Usage</a> ·
-  <a href="#roadmap">Roadmap</a>
+  <a href="#bu-nima">Bu nima?</a> ·
+  <a href="#demo">Demo</a> ·
+  <a href="#features">Xususiyatlar</a> ·
+  <a href="#why-this-project">Nega bu loyiha?</a> ·
+  <a href="#usage">Ishlatish</a> ·
+  <a href="#roadmap">Yo'l xaritasi</a>
 </p>
 
 <p align="center">
@@ -20,35 +24,36 @@
 </p>
 
 > [!IMPORTANT]
-> Bu loyiha 2026-yilgi yangi lotin alifbosiga mos yozuvni avtomatik yaratish, tekshirish va standartlashtirish uchun mo'ljallangan.
+> Bu loyiha uzbek tilidagi matnlarni 2026-yilgi yangi lotin alifbosiga o'girish, tekshirish va standartlashtirish uchun mo'ljallangan. Ochiq manbali, AI-ga tayyor va til standartlari uchun qulay yondashuvni taqdim etadi.
 
-## Hero
+## Bu nima?
 
-Uzbek tilidagi matnlarni yangi lotin alifbosiga o'girish, tekshirish va qayta tuzish uchun yaratilgan loyiha. Loyiha eski lotin yozuvi, kirill yozuvi va zamonaviy matnlar o'rtasidagi muvofiqlikni saqlashga yordam beradi. Shuningdek, GitHub Copilot, AI agentlar va dasturiy vositalar uchun aniq, standart va izchillikdagi yozuv qoidalarini taqdim etadi.
+Uzbek New Latin Alphabet — bu uzbek tilidagi matnlarni yangi lotin alifbosiga avtomatik tarzda o'zgartirish, tekshirish va standartlashtirish uchun yaratilgan loyiha. Loyiha eski lotin yozuvi, kirill yozuvi va zamonaviy matnlar o'rtasidagi moslikni saqlashga yordam beradi.
 
-Bu loyiha quyidagi maqsadlarga xizmat qiladi:
+Asosiy maqsadlar:
 
-- eski lotin yoki kirill yozuvidagi matnlarni yangi lotin alifbosiga aylantirish;
-- mavjud yangi lotin yozuvini tekshirish va xatolarni tuzatish;
-- alifbo islohotining asosiy qoidalarini hujjatlashtirish;
-- AI, model va dasturiy tizimlar uchun standardlashgan yozuv ko'rsatmalarini berish.
+- eski lotin yoki kirill yozuvidagi matnlarni yangi lotin alifbosiga o'tkazish;
+- mavjud yozuvdagi xatolarni aniqlash va tuzatish;
+- alifbo islohotining asosiy qoidalarini standart tarzda hujjatlashtirish;
+- GitHub Copilot, AI-agentlar va boshqa dasturiy tizimlar uchun yaxshi ishlaydigan yozuv ko'rsatmalarini yaratish.
 
-Bu repoda yangi lotin alifbosi, yozuv standartlari, konvertatsiya qoidalari va amaliy skriptlar birga jamlangan. Natijada foydalanuvchilar, mualliflar, developerlar, AI tizimlari va matn ishlovchilar bir xil yozuv me'yoridan foydalanishi mumkin.
+Bu loyiha nafaqat matn konvertatsiyasi uchun, balki Uzbek tilining yozuv standartlarini modernizatsiya qilish, AI uchun ishga tushadigan qo'llanmalar yaratish va texnik hujjatlarda bir xil imlo qoidalarini saqlash uchun ham muhimdir.
 
-## Features
+## Demo
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>🔄 Konvertatsiya</strong><br />Eski lotin va kirill yozuvini yangi alifboga o'tkazadi.</td>
-      <td align="center"><strong>✅ Tekshirish</strong><br />Yozuvdagi xatolar, noaniq holatlar va standart bo'lmagan shakllarni aniqlaydi.</td>
-      <td align="center"><strong>📘 Qoida bazasi</strong><br />Alifbo islohoti qoidalarini izchil va aniq tarzda tushuntiradi.</td>
-      <td align="center"><strong>🤖 AI/Skill</strong><br />GitHub Copilot, ChatGPT, Claude va boshqa AI yordamchilar uchun qulay formatda ishlaydi.</td>
-    </tr>
-  </table>
-</div>
+### Tez demo
 
-### Asosiy reform qoidalari
+```text
+Kiruvchi:   O'zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev yangi alifbo to'g'risidagi qonunni imzoladi.
+Chiqarish:  Özbekiston Respublikasi Prezidenti Şavkat Mirziyoyev yangi alifbo töğrisidagi qonunni imzoladi.
+```
+
+```text
+Kiruvchi:   Шавкат Мирзиёев ўзбек тилининг янги алфавити ҳақида гапирди.
+Chiqarish:  Şavkat Mirziyoyev özbek tilining yangi alfaviti haqida gapirdi.
+```
+
+### Asosiy qoidalar
 
 - `Oʻ` / `oʻ` → `Ö` / `ö`
 - `Gʻ` / `gʻ` → `Ğ` / `ğ`
@@ -57,28 +62,70 @@ Bu repoda yangi lotin alifbosi, yozuv standartlari, konvertatsiya qoidalari va a
 - `ng` alohida harf emas, lekin yozuvda saqlanadi
 - ajratish belgisi (tutuq) `’` shaklida ishlatiladi
 
-### Nima uchun kerak?
+## Features
 
-- yangi lotin alifbosini standartlashtirish;
-- matnlarni avtomatik o'zgartirishni tezlashtirish;
-- AI va dasturiy tizimlarda bir xil yozuv qoidalarini ta'minlash;
-- davlat, ilmiy, texnik va rasmiy matnlar uchun aniq yozuvni saqlash.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🔄 Konvertatsiya</strong><br />Eski lotin va kirill yozuvini yangi alifboga o'zgartiradi.</td>
+      <td align="center"><strong>✅ Tekshirish</strong><br />Yozuvdagi xatolar, noaniq holatlar va standart bo'lmagan shakllarni aniqlaydi.</td>
+      <td align="center"><strong>📘 Standart qoidalar</strong><br />Alifbo islohoti qoidalarini izchil va aniq tarzda tushuntiradi.</td>
+      <td align="center"><strong>🤖 AI tayyor</strong><br />GitHub Copilot va AI-agentlar uchun qulay formatda ishlaydi.</td>
+    </tr>
+  </table>
+</div>
+
+### Loyiha nima qiladi?
+
+- eski lotin va kirill yozuvidagi matnlarni yangi lotin alifbosiga o'tkazadi;
+- yangi lotin yozuvidagi textlarni tekshiradi va xatolarni tuzatadi;
+- alifbo reformining qoidalarini standartlashtiradi;
+- qoidalarini AI, dasturiy modullar va matn ishlovchi tizimlar uchun qulay tarzda taqdim etadi;
+- bir xil yozuv tizimi bo'yicha me'yor va amaliy misollarni ta'minlaydi.
 
 ## Why this project?
 
-Ushbu loyiha quyidagi muammolarni hal qiladi:
+Bu loyiha quyidagi muammolarni hal qiladi:
 
 1. eski lotin yozuvi yoki kirill yozuvidagi matnlarni yangi standartga o'tkazish;
 2. alifbo islohotiga oid aniq qoidalarni jamlash;
 3. AI model uchun ko'rsatmalarni va konvertatsiya regullarini standartlashtirish;
 4. bir xil yozuv qoidalari bilan ishlaydigan vazifalarni avtomatlashtirish.
 
-Bu yondashuv nafaqat oddiy foydalanuvchilar uchun, balki AI modellari, developerlar, matn muharrirlari, tarjimonlar, notarial va rasmiy hujjatlar bilan ishlovchi tashkilotlar uchun ham foydali bo'ladi.
+Ushbu yondashuv nafaqat oddiy foydalanuvchilar uchun, balki AI modellari, developerlar, matn muharrirlari, tarjimonlar, davlat va rasmiy hujjatlar bilan ishlaydigan tashkilotlar uchun ham foydali bo'ladi.
+
+Asosiy afzalliklari:
 
 - Uzbek alifbosining islohotini standartlashtirish;
 - AI va matn konvertatsiyasi uchun qo'llanmalarni birlashtirish;
 - matnlar bilan ishlaydigan tizimlar uchun qoidalarni izchillik bilan ta'minlash;
 - turli platformalarda bir xil yozuv holatini qo'llab-quvvatlash.
+
+## Usage
+
+### 1) Matn faylidan o'qib konvertatsiya qilish
+
+```bash
+python uzbek-new-latin-alphabet/scripts/convert.py input.txt
+```
+
+### 2) Konsoldan kirish berish
+
+```bash
+echo "O'zbek tili yangi alifboga o'tmoqda." | python uzbek-new-latin-alphabet/scripts/convert.py -
+```
+
+### 3) Natija haqida ko'proq ma'lumot bilan chiqish
+
+```bash
+python uzbek-new-latin-alphabet/scripts/convert.py input.txt --report
+```
+
+### 4) Ayrim so'zlarni saqlab qolish
+
+```bash
+python uzbek-new-latin-alphabet/scripts/convert.py input.txt --keep Chrome,Shell --report
+```
 
 ## Quick examples
 
@@ -117,32 +164,6 @@ Chiqarish:
 - `qo'shiq` → `qöşiq`
 - `to'g'ri` → `töğri`
 
-## Usage
-
-### 1) Matn faylidan o'qib konvertatsiya qilish
-
-```bash
-python uzbek-new-latin-alphabet/scripts/convert.py input.txt
-```
-
-### 2) Konsoldan kirish berish
-
-```bash
-echo "O'zbek tili yangi alifboga o'tmoqda." | python uzbek-new-latin-alphabet/scripts/convert.py -
-```
-
-### 3) Natija haqida ko'proq ma'lumot bilan chiqish
-
-```bash
-python uzbek-new-latin-alphabet/scripts/convert.py input.txt --report
-```
-
-### 4) Ayrim so'zlarni saqlab qolish
-
-```bash
-python uzbek-new-latin-alphabet/scripts/convert.py input.txt --keep Chrome,Shell --report
-```
-
 ## Project structure
 
 ```text
@@ -180,7 +201,7 @@ uzbek-new-latin-alphabet/
 [🚀] Harflar va imlo nazorati uchun avtomatlashtirilgan tekshiruv
 ```
 
-## Installation
+## O'rnatish
 
 ### Talablar
 
@@ -213,7 +234,7 @@ Loyiha ishlash prinsiplari quyidagilarni nazarda tutadi:
 4. Inglizcha so'zlar, URL manzillar, elektron pochta manzillari, kodlar yoki brend nomlari avtomatik o'zgartirilmaydi.
 5. Matnni yakuniy tarzda qabul qilishdan oldin qo'lda tekshirish tavsiya etiladi, chunki ba'zi so'zlar kontekstga qarab noaniq bo'lishi mumkin.
 
-## Contributing
+## Hissa qo'shish
 
 Agar loyiha rivojlanishiga hissa qo'shmoqchi bo'lsangiz:
 
@@ -224,13 +245,20 @@ Agar loyiha rivojlanishiga hissa qo'shmoqchi bo'lsangiz:
 
 Hissa qo'shishdan avval qoidalarni diqqat bilan o'rganib chiqing va konvertatsiya natijalarini tekshirishni unutmang.
 
-## License
+## Litsenziya
 
 Bu loyiha MIT yoki mos keluvchi ochiq litsenziya asosida tarqatilgan bo'lishi mumkin. Batafsil ma'lumot uchun `LICENSE` faylini o'qib chiqing.
 
 ## Xulosa
 
-Bu loyiha faqat bir skript emas; u Uzbek tilidagi yozuv islohotini standartlashtirishga intilayotgan texnik va lingvistik platformadir. Yangi lotin alifbosi, yazuv standartlari, matn konvertatsiyasi va AI uchun aniq qoidalar bir joyga jamlangan. Shu sababli loyiha Uzbek tilidagi yozuv standartlarini modernizatsiya qilish, xalqaro va texnik muhitlarda ishlatiladigan yozuvlarni birlashtirish va ma'lumotlar samaradorligini oshirish uchun muhim ahamiyatga ega.
+Uzbek New Latin Alphabet loyiha sifatida oddiy konvertatsiya skripti emas, balki Uzbek tilining yozuv standartlarini modernizatsiyalashga qaratilgan open-source va AI-ga tayyor texnik platformadir. Bu loyiha yangi lotin alifbosini, imlo qoidalarini, konvertatsiya usullarini va AI uchun qulay ko'rsatmalarni bir joyga jamlaydi.
+
+Natijada:
+
+- matnlarni avtomatik o'zgartirish imkoniyati paydo bo'ladi;
+- yangi alifbo qoidalari standartlashtiriladi;
+- foydalanuvchi va AI tizimi o'rtasida aniq muomala yaratiladi;
+- kelajakdagi uzbek tilidagi texnik, ilmiy va axborot mahsulotlari uchun asos bo'ladi.
 
 Agar siz repoga birinchi marta qarasangiz, avval `AI_New_Uzbek_Alphabet_Guide.md` va `uzbek-new-latin-alphabet/SKILL.md` fayllarini o'qib chiqishni tavsiya qilamiz. Keyin esa `convert.py` skriptini ishlatishni boshlashingiz mumkin.
 
@@ -241,4 +269,3 @@ Agar siz repoga birinchi marta qarasangiz, avval `AI_New_Uzbek_Alphabet_Guide.md
   <img alt="Markdown" src="https://img.shields.io/badge/Docs-Markdown-000000?logo=markdown" />
   <img alt="Python" src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
 </p>
-

@@ -43,7 +43,7 @@ Bu repoda yangi lotin alifbosi, yozuv standartlari, konvertatsiya qoidalari va a
       <td align="center"><strong>🔄 Konvertatsiya</strong><br />Eski lotin va kirill yozuvini yangi alifboga o'tkazadi.</td>
       <td align="center"><strong>✅ Tekshirish</strong><br />Yozuvdagi xatolar, noaniq holatlar va standart bo'lmagan shakllarni aniqlaydi.</td>
       <td align="center"><strong>📘 Qoida bazasi</strong><br />Alifbo islohoti qoidalarini izchil va aniq tarzda tushuntiradi.</td>
-      <td align="center"><strong>🤖 AI/Skill</strong><br />GitHub Copilot va boshqa AI yordamchilar uchun qulay formatda ishlaydi.</td>
+      <td align="center"><strong>🤖 AI/Skill</strong><br />GitHub Copilot, ChatGPT, Claude va boshqa AI yordamchilar uchun qulay formatda ishlaydi.</td>
     </tr>
   </table>
 </div>
